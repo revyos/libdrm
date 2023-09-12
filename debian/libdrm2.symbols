@@ -124,6 +124,7 @@ libdrm.so.2 libdrm2 #MINVER#
  drmModeFreeEncoder@Base 2.4.3
  drmModeFreeFB2@Base 2.4.101
  drmModeFreeFB@Base 2.4.3
+ drmModeFreeFormats@Base 1:2.4.114-1revyos1
  drmModeFreeModeInfo@Base 2.4.3
  drmModeFreeObjectProperties@Base 2.4.36
  drmModeFreePlane@Base 2.4.30
@@ -151,6 +152,7 @@ libdrm.so.2 libdrm2 #MINVER#
  drmModeObjectSetProperty@Base 2.4.36
  drmModePageFlip@Base 2.4.17
  drmModePageFlipTarget@Base 2.4.73
+ drmModePopulateFormats@Base 1:2.4.114-1revyos1
  drmModeRevokeLease@Base 2.4.89
  drmModeRmFB@Base 2.4.3
  drmModeSetCrtc@Base 2.4.3

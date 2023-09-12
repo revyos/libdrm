@@ -1,3 +1,9 @@
+libdrm (1:2.4.114-1revyos1) unstable; urgency=medium
+
+  * Add pvr patch
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Mon, 10 Apr 2023 12:03:10 +0800
+
 libdrm (2.4.114-1) unstable; urgency=medium
 
   * New upstream release.
